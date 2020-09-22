@@ -1,0 +1,21 @@
+{
+    "name": "handcrafted-theme",
+    "displayName": "Handcrafted Theme",
+    "description": "A colour theme for creative coders",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Handcrafted Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Handcrafted Dark-color-theme.json"
+            }
+        ]
+    }
+}
