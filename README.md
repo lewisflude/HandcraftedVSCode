@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "handcrafted-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Handcrafted Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![handcrafted](https://github.com/lewisflude/Handcrafted/raw/main/Images/handcrafted.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Handcrafted dark is a carefully constructed dark theme for programming and development. The colours within have been carefully balanced in order to work real in real world uses. Using colours from the CIELAB color space, the theme creates a sense of order and hierarchy.
