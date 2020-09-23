@@ -4,6 +4,7 @@
   "description": "A colour theme for creative coders",
   "publisher": "HandEngineering",
   "repository": "https://github.com/lewisflude/HandcraftedVSCode",
+  "icon": "./images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.49.0"
