@@ -1,11 +1,11 @@
 {
   "name": "handcrafted-theme",
-  "displayName": "Handcrafted Theme",
-  "description": "A colour theme for creative coders",
+  "displayName": "Handcrafted",
+  "description": "A carefully crafted dark theme for creative coders",
   "publisher": "HandEngineering",
   "repository": "https://github.com/lewisflude/HandcraftedVSCode",
   "icon": "images/icon.png",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "engines": {
     "vscode": "^1.49.0"
   },
