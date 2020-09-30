@@ -1,4 +1,4 @@
-# Handcrafted Theme for ![VS Code](https://code.visualstudio.com)
+# Handcrafted Theme for [VS Code](https://code.visualstudio.com)
 
 ## A carefully crafted dark theme for creative coders
 
