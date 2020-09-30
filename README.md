@@ -1,4 +1,6 @@
-# Handcrafted Dark
+# Handcrafted Theme for ![VS Code](https://code.visualstudio.com)
+
+## A carefully crafted dark theme for creative coders
 
 ![Handdcrafted](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/handcrafted-banner.png)
 ![Screenshot](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/vscode-screenshot.png)
