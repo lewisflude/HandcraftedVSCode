@@ -1,8 +1,6 @@
 # Handcrafted Theme for [VS Code](https://code.visualstudio.com)
 
-## A carefully crafted dark theme for creative coders
-
-![Handdcrafted](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/handcrafted-banner.png)
+![Handdcrafted](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/handcrafted-banner-half.png)
 ![Screenshot](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/vscode-screenshot.png)
 
 A beautiful dark theme for modern screens. Handcrafted uses colours from the CIELAB colour space. Each colour in the palette has an intentional level of brightness. This gives a sense of order and hierarchy to your editor.
