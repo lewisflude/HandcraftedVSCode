@@ -54,9 +54,16 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": ["keyword", "storage.type"],
       "settings": {
         "foreground": "#d68eff"
+      }
+    },
+    {
+      "name": "Keyword, Operator",
+      "scope": ["storage.modifier", "keyword.operator"],
+      "settings": {
+        "foreground": "#d1c4b6"
       }
     },
     {
@@ -115,7 +122,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#fd8877"
+        "foreground": "#d1c4b6"
       }
     },
     {
