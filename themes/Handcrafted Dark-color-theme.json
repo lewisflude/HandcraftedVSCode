@@ -64,6 +64,16 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
+        "keyword.other.template",
+        "keyword.other.substitution"
+      ],
+      "settings": {
+        "foreground": "#d68eff"
+      }
+    },
+    {
+      "name": "XML Tags",
+      "scope": [
         "punctuation",
         "meta.tag",
         "punctuation.definition.tag",
@@ -71,9 +81,7 @@
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded",
-        "keyword.other.template",
-        "keyword.other.substitution"
+        "punctuation.section.embedded"
       ],
       "settings": {
         "foreground": "#d1c4b6"
