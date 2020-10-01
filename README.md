@@ -1,4 +1,4 @@
-# Handcrafted Theme for [VS Code](https://code.visualstudio.com)
+# [Handcrafted](https://hand.engineering/handcrafted) Theme for [VS Code](https://code.visualstudio.com)
 
 ![Handdcrafted](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/handcrafted-banner-half.png)
 ![Screenshot](https://github.com/lewisflude/HandcraftedVSCode/raw/master/images/vscode-screenshot.png)
