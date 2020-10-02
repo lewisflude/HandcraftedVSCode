@@ -102,7 +102,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#fd8877"
+        "foreground": "#f585ca"
       }
     },
     {
@@ -118,18 +118,19 @@
         "foreground": "#9aa5ff"
       }
     },
+
     {
-      "name": "Block Level Variables",
-      "scope": ["meta.block variable.other"],
+      "name": "Other Variable, String Link",
+      "scope": ["support.other.variable", "string.other.link"],
       "settings": {
         "foreground": "#d1c4b6"
       }
     },
     {
-      "name": "Other Variable, String Link",
-      "scope": ["support.other.variable", "string.other.link"],
+      "name": "Nested Variable, String Link",
+      "scope": ["variable.other.object.property", "variable.other.property"],
       "settings": {
-        "foreground": "#fd8877"
+        "foreground": "#d1c4b6"
       }
     },
     {
@@ -176,7 +177,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#65c032"
+        "foreground": "#f585ca"
       }
     },
     {
